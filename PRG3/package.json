@@ -12,6 +12,6 @@
     "contributors": [],
     "dependencies": {
         "body-parser": "latest",
-        "express": "^4.16.4"
+        "express": "latest"
     }
 }
